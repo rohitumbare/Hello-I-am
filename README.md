@@ -10,16 +10,20 @@ I am thrilled to announce the completion of my latest project - <b>"Hello I'm"</
 <br>
 
 <b>💡 Key Features : </b><br>
-✅ Sleek Navigation Bar: 
+✅ Sleek Navigation Bar:  <br>
 The navigation bar at the top provides easy access to sections like Instagram, Contact, and Gallery, enhancing user experience with its straightforward design.<br>
 
-✅ Engaging Intro: The main section features a bold introduction with the name "Rohit Umbare" displayed in a striking format, drawing attention and establishing a personal connection..<br>
+✅ Engaging Intro: <br>
+The main section features a bold introduction with the name "Rohit Umbare" displayed in a striking format, drawing attention and establishing a personal connection..<br>
 
-✅ Dynamic Image Presentation: Three carefully selected images are integrated, each with a unique rotation and position. This adds visual interest and showcases creativity.<br>
+✅ Dynamic Image Presentation: <br>
+Three carefully selected images are integrated, each with a unique rotation and position. This adds visual interest and showcases creativity.<br>
 
-✅ Smooth Animations: Leveraging GSAP, the project features smooth entry animations for elements like the navigation bar, images, and footer. This enhances the overall visual appeal and keeps users engaged.<br>
+✅ Smooth Animations: <br>
+Leveraging GSAP, the project features smooth entry animations for elements like the navigation bar, images, and footer. This enhances the overall visual appeal and keeps users engaged.<br>
 
-✅ Footer Information: The footer includes a brief statement about Rohit’s expertise in developing web applications, reinforcing his professional identity.<br>
+✅ Footer Information:  <br>
+The footer includes a brief statement about Rohit’s expertise in developing web applications, reinforcing his professional identity.<br>
 
 <b>🛠 Technologies Used : </b><br>
 
